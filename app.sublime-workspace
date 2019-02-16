@@ -1,0 +1,437 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"z",
+				"ZeroDivisionError"
+			],
+			[
+				"it",
+				"item3"
+			],
+			[
+				"co",
+				"countries"
+			],
+			[
+				"find",
+				"find_dates"
+			],
+			[
+				"text",
+				"text_lower"
+			],
+			[
+				"te",
+				"text_without"
+			],
+			[
+				"bal",
+				"balance_change"
+			],
+			[
+				"wor",
+				"word_count"
+			],
+			[
+				"tran",
+				"transaction"
+			],
+			[
+				"da",
+				"david_str"
+			],
+			[
+				"cu",
+				"customers"
+			],
+			[
+				"cus",
+				"customer"
+			],
+			[
+				"a",
+				"address2"
+			],
+			[
+				"p",
+				"pattern3"
+			],
+			[
+				"ad",
+				"address2"
+			],
+			[
+				"me",
+				"merge_sort"
+			],
+			[
+				"ba",
+				"balance_change"
+			],
+			[
+				"transa",
+				"transaction"
+			],
+			[
+				"s",
+				"selection_sort"
+			],
+			[
+				"n",
+				"numbers"
+			],
+			[
+				"f",
+				"flatten"
+			],
+			[
+				"num",
+				"numbers1"
+			],
+			[
+				"nu",
+				"numbers2"
+			],
+			[
+				"numb",
+				"numbers1"
+			],
+			[
+				"min",
+				"min_first"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"c",
+				"chaging_place"
+			],
+			[
+				"fizz",
+				"fizzbuzz"
+			],
+			[
+				"pri",
+				"priority"
+			],
+			[
+				"add",
+				"add"
+			],
+			[
+				"calc",
+				"calc_depth"
+			],
+			[
+				"ca",
+				"calc_depth"
+			],
+			[
+				"push_",
+				"push_front"
+			],
+			[
+				"si",
+				"size-1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/templates/layout.html",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/templates/items.html",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/models.py",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/requirements.txt",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/templates/index.html",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/templates/register.html",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/util.py",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/templates/login.html",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/app.py",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/templates/hello.html",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/admin.py",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/templates/admin.py",
+		"/C/cygwin64/home/PCHelper/vault77/project_1/app.py",
+		"/C/cygwin64/home/PCHelper/vault77/project_1/routes.py",
+		"/C/cygwin64/home/PCHelper/vault77/project_1/templates/Incorrect.html",
+		"/C/cygwin64/home/PCHelper/vault77/project_1/templates/CreatedQuestion.html",
+		"/C/cygwin64/home/PCHelper/vault77/project_1/templates/CreateQuestion.html",
+		"/C/cygwin64/home/PCHelper/vault77/project_1/templates/Correct.html",
+		"/C/cygwin64/home/PCHelper/vault77/project_1/templates/AnswerQuestion.html",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/test_flask.py",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/req_.py",
+		"/C/cygwin64/home/PCHelper/vault77/3_functions/factorial.py",
+		"/C/cygwin64/home/PCHelper/Anaconda/anaconda_server/lib/path.py",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/db.txt",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/items.html",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/index.html",
+		"/C/cygwin64/home/PCHelper/vault77/reposit_0/web_hello/app.py",
+		"/C/cygwin64/home/PCHelper/vault77/reposit_0/web_hello/hello.py",
+		"/C/cygwin64/home/PCHelper/vault77/reposit_0/web_hello/hello_web/hello.py",
+		"/C/cygwin64/home/PCHelper/vault77/web_hello/hello.py",
+		"/C/cygwin64/home/PCHelper/vault77/11,12_exceptions_pypip/calc_err_home.py",
+		"/C/cygwin64/home/PCHelper/vault77/11,12_exceptions_pypip/dec_timer.py",
+		"/C/cygwin64/home/PCHelper/vault77/reposit_0/hell.py",
+		"/C/cygwin64/home/PCHelper/vault77/11,12_exceptions_pypip/calc_error.py",
+		"/C/cygwin64/home/PCHelper/vault77/11,12_exceptions_pypip/req.py",
+		"/C/cygwin64/home/PCHelper/vault77/11,12_exceptions_pypip/exceptions",
+		"/C/Users/PCHelper/Desktop/Algorithms/week1/p1/a.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/C_.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Robert_Knuth_Kent/D.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Robert_Knuth_Kent/B.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Merge/B.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Merge/A.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/B_.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/A.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/G.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Robert_Knuth_Kent/F.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Robert_Knuth_Kent/A.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Robert_Knuth_Kent/C.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Robert_Knuth_Kent/E.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/J.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/H.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/F_.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/E_.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/D_.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/1.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/C.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/1.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/KMP.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/Rabin-Carp.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/B.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/E.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/D.cpp",
+		"/C/Users/PCHelper/Desktop/Algorithms/Graph_BFS_DFS/F.cpp",
+		"/C/cygwin64/home/PCHelper/vault77/11,12_exceptions_pypip/with.py",
+		"/C/cygwin64/home/PCHelper/new/numbers.py",
+		"/C/cygwin64/home/PCHelper/vault77/11,12_exceptions_pypip/try.py",
+		"/C/cygwin64/home/PCHelper/vault77/9,10_oop_fp/online_shop.py",
+		"/C/cygwin64/home/PCHelper/vault77/9,10_oop_fp/credits.py",
+		"/C/cygwin64/home/PCHelper/vault77/9,10_oop_fp/billing3.py",
+		"/C/cygwin64/home/PCHelper/vault77/9,10_oop_fp/trans3.py",
+		"/C/cygwin64/home/PCHelper/vault77/9,10_oop_fp/student.py",
+		"/C/cygwin64/home/PCHelper/vault77/9,10_oop_fp/ards_kwargs.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/strings2.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/find_date.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/no_duplicates.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/dates.txt",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/word_count.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/apply_trans.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/no_digits.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/billing2.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/rnd.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/strings.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/json.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/customers.txt",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/file.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/transactions2.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/weekday.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/rnd2.py",
+		"/C/cygwin64/home/PCHelper/vault77/7,8_modules_string/time_calc.py",
+		"/C/cygwin64/home/PCHelper/vault77/1-2_beginging/Homework/guess_home.py",
+		"/C/cygwin64/home/PCHelper/vault77/3_functions/Homework/fibo_rec_home.py",
+		"/C/cygwin64/home/PCHelper/vault77/3_functions/Homework/Fibo_while_home.py",
+		"/C/cygwin64/home/PCHelper/vault77/4_lists/add.py",
+		"/C/cygwin64/home/PCHelper/vault77/3_functions/Homework/approve_home.py",
+		"/C/cygwin64/home/PCHelper/vault77/3_functions/func.py",
+		"/C/cygwin64/home/PCHelper/vault77/4_lists/change_home.py",
+		"/C/cygwin64/home/PCHelper/vault77/4_lists/pos_home.py",
+		"/C/cygwin64/home/PCHelper/vault77/4_lists/center_home.py",
+		"/C/cygwin64/home/PCHelper/vault77/4_lists/fizzbuzz.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/binare_search.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/flatten3.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/flatten2.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/flatten.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/transactions.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/search.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/list.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/dict2.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/dict.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/prime.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/merge_test.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/merge_sort.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/biling.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/reverse_mersort.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/hits.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/selection_sort.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/reverse_selsort.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/prime",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/move_tests.py",
+		"/C/cygwin64/home/PCHelper/vault77/5,6_dict_alg/test.py",
+		"/C/cygwin64/home/PCHelper/vault77/4_lists/reverse.py",
+		"/C/cygwin64/home/PCHelper/vault77/4_lists/mean_value_home.py",
+		"/C/cygwin64/home/PCHelper/vault77/4_lists/min_home.py",
+		"/C/cygwin64/home/PCHelper/vault77/3_functions/Homework/max_home.py",
+		"/C/Users/PCHelper/Desktop/Vault77/guess.py",
+		"/C/cygwin64/home/PCHelper/vault77/Homework/even_home.py",
+		"/C/cygwin64/home/PCHelper/vault77/Homework/calc_home.py",
+		"/C/cygwin64/home/PCHelper/vault77/Homework/guess_home.py",
+		"/C/Users/PCHelper/Desktop/Vault77/1.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
